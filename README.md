@@ -88,7 +88,7 @@ print(target_counts)
 print(f"\nPersentase:\n{target_counts / len(df) * 100}")
 ```
 
-![Tabel distribusi kelas target menunjukkan jumlah dan persentase kasus diabetes dan non-diabetes](DISTRIBUSIPERSEN.PNG)
+![Tabel distribusi kelas target menunjukkan jumlah dan persentase kasus diabetes dan non-diabetes](DISTRIBUSIPERSEN.png)
 
 Visualisasi Distribusi:
 
